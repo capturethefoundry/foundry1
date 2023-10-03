@@ -4,7 +4,8 @@
 
 // Task: Print the message "Hello World!" again onto your console.
 
-// Hint: Looks like this is the same task as module 1... But what's the difference in both code? There are two differences to find...
+// Hint: Looks like this is the same task as module 1... But what's the difference in both code? 
+// Hint: There are two differences to find...
 
 // Test: Run forge test --mt test_2 -vv in your console.
 

@@ -2,11 +2,12 @@
 
 // Module 2: What is my address?
 
-// Task: Print the address of the test account onto your console. The console should print 0x7F....
+// Task: Print the address of the test account onto your console. 
 
 // Reference: https://ethereum.stackexchange.com/questions/144991/why-is-my-foundry-test-contract-not-deploying-to-the-0xb4c79dab8f259c7aee6e5b2aa
 
-// Hint: I believe you still use the console.log command to print words to the console. I think the answer is in the reference link!
+// Hint: I believe you still use the console.log command. 
+// Hint: I think the answer is in the reference link!
 
 // Test: Run forge test --mt test_3 -vv in your console
 
@@ -17,6 +18,9 @@ contract Module3 is Test {
 
     function test_3() public {
         // Enter your code here
-        console.log(address(this));
+       
     }
 }
+
+// The console should print 0x7F....
+// If it prints something else, it should be fine too..? Let me know if it prints something else!
