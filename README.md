@@ -2,19 +2,19 @@
 
 Welcome to the first part of this foundry course! This course will be a little different than other courses, in the sense that you have to find the answers yourself! This is an interactive course that guides you through the fundementals of foundry. Not to worry, the course is designed for absolute beginners, and the difficulty of each module will be pretty gradual. 
 
-# Requirements 
+## Requirements 
 Ideally, you should have a little bit of knowledge on solidity. That's about it. You also need to install foundry. I won't be going through the installation process but you know you are ready when you type the words "forge init" and "forge test" in the console. Anyways, here are some links to install foundry.
 
 - https://book.getfoundry.sh/getting-started/installation
 - https://github.com/foundry-rs/foundry/blob/master/foundryup/README.md
 - https://github.com/foundry-rs/foundry/tree/master
 
-# Explanation
+## Explanation
 Once again, this course is meant to be interactive. In every module (the modules are found in the test folder), there will be 4 guidelines: Task, Reference, Hints, Test. There is also a bonus task in some modules, but it is optional to complete. Try your best to complete the task in every module. Instead of giving you the answer, I have provided some links under the reference tab so that you can find the answer yourself. If the references are not enough, you can google the answer or look at the hints given. 
 
 I will be providing a solution repo and also a video walkthrough in the future so that you can double check your answers. 
 
-# Course Learnings
+## Course Learnings
 By the end of the first course, you will be able to know how to:
 
 - Use console.log (Done)
