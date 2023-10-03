@@ -10,7 +10,9 @@ Ideally, you should have a little bit of knowledge on solidity. That's about it.
 - https://github.com/foundry-rs/foundry/tree/master
 
 # Explanation
-Once again, this course is meant to be interactive. In every module (the modules are found in the test folder), there will be 4 guidelines: Task, Reference, Hints, Test. There is also a bonus task in some modules, but it is optional to complete. Try your best to complete the task in every module. Instead of giving you the answer, I have provided some links under the reference tab so that you can find the answer yourself! If the references are not enough, you can google the answer or look at the hints given. I will be providing a solution repo and also a video walkthrough in the future so that you can double check your answers. 
+Once again, this course is meant to be interactive. In every module (the modules are found in the test folder), there will be 4 guidelines: Task, Reference, Hints, Test. There is also a bonus task in some modules, but it is optional to complete. Try your best to complete the task in every module. Instead of giving you the answer, I have provided some links under the reference tab so that you can find the answer yourself. If the references are not enough, you can google the answer or look at the hints given. 
+
+I will be providing a solution repo and also a video walkthrough in the future so that you can double check your answers. 
 
 # Course Learnings
 By the end of the first course, you will be able to know how to:
@@ -25,7 +27,7 @@ By the end of the first course, you will be able to know how to:
 - Get some test native ETH tokens 
 - Reset the amount of native tokens 
 
-# In Progress!! 
+# Future Plan in Progress (Ignore For Now)
 ### Course Learnings
 By the end of the second course, you will be able to know how to:
 
