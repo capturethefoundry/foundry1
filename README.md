@@ -1,6 +1,6 @@
-# Foundry Full Course Part 1 (IN PROGRESS)
+## Foundry Full Course Part 1 (IN PROGRESS)
 
-Welcome to the first part of this foundry course! This course will be a little different than other courses, in the sense that you have to find the answers yourself! This is an interactive course that guides you through the fundementals of foundry. Not to worry, the course is designed for absolute beginners, and the difficulty of each module will be pretty gradual. 
+Welcome to the first part of this foundry course. This course will be a little different than other courses, in the sense that you have to find the answers yourself. This is an interactive course that guides you through the fundementals of foundry. Not to worry, the course is designed for absolute beginners, and the difficulty of each module will be gradual. 
 
 ## Requirements 
 Ideally, you should have a little bit of knowledge on solidity. That's about it. You also need to install foundry. I won't be going through the installation process but you know you are ready when you type the words "forge init" and "forge test" in the console. Anyways, here are some links to install foundry.
