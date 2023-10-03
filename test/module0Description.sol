@@ -4,7 +4,9 @@
 
 // This module will be a tour of the test file! 
 
-// This is the solidity version used for the test. Make sure that it is not too old, like 0.5.0 because many things have changed. Anyways, foundry will not let you run if the version is too old.
+// This is the solidity version used for the test. 
+// Make sure that it is not too old, like 0.5.0 because many things have changed. 
+// Anyways, foundry will not let you run if the version is too old.
 pragma solidity ^0.8.13;
 
 // This imports the whole Test suite from foundry. Every test file should have this import.
