@@ -6,7 +6,7 @@
 
 // Reference: https://jamesbachini.com/get-contract-balance-solidity-tips-examples/
 
-// Hint: The way to call the balance of native tokens is different from the way to call the balance of ERC20 tokens 
+// Hint: The way to check the balance of native tokens is different from the way to check the balance of ERC20 tokens 
 
 pragma solidity ^0.8.13;
 import "forge-std/Test.sol";

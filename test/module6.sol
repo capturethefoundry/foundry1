@@ -10,7 +10,7 @@
 // Reference: https://solidity-by-example.org/ether-units/
 
 // Hint: There's a special function to give test ether to the different addresses. 
-// Hint: What is 1 wei?
+// Hint: The base unit of solidity is wei.
 
 pragma solidity ^0.8.13;
 import "forge-std/Test.sol";

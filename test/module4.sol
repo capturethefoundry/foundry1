@@ -7,7 +7,7 @@
 // Reference: https://book.getfoundry.sh/cheatcodes/addr
 // Reference: https://ethereum.stackexchange.com/questions/124073/how-to-spoof-accounts-using-foundry
 
-// Hint: You have to make new addresses using a command. I think the reference shows you how.
+// Hint: You can make new addresses using a special function.
 
 pragma solidity ^0.8.13;
 import "forge-std/Test.sol";
