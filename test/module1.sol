@@ -10,8 +10,6 @@
 // Hint: The references should help you so do read them first! 
 // Hint: Notice that in the second reference link, there is a command called console.log! Maybe you can find a way to use it... 
 
-// Test: Run "forge test --mt test_1 -vv" in your console (without the quotation marks).
-
 pragma solidity ^0.8.13;
 import "forge-std/Test.sol";
 contract Module1 is Test {
@@ -20,3 +18,5 @@ contract Module1 is Test {
         // Enter your code here
     }
 }
+
+// Test: Run "forge test --mt test_1 -vv" in your console (without the quotation marks).

@@ -17,8 +17,8 @@
 // Once you have cloned the repository, type forge test in the console. 
 // You will see a lot of [PASS]. This means that everything is working.
 
-// Note: The answers to the first few modules are relatively simple. Please do not overthink.
-// Note: This whole course is meant to gradually increase in difficulty. 
+// Note: The answers to the first few modules are relatively simple. Some answers are just one liners. Please do not overthink.
+// Note: This whole course is meant to gradually increase in difficulty and build on the knowledge you gained every module. 
 
 // Before going to Module 1, do look at the file 'module0Description' for a walkthrough of the test file. 
 
