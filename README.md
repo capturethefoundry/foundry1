@@ -17,7 +17,7 @@ Ideally, you should have a little bit of knowledge on solidity. That's about it.
 - Run the command that is given right at the end of every module. Your test should match the task requirements.
 
 ## Explanation
-In every module (the modules are found in the test folder), there will be 4 guidelines: Task, Reference, Hint, Test. Try your best to complete the task in every module. If you find yourself stuck, try to read the references properly. The answer should be there. If the references are not enough, you can google the answer or look at the hints given. 
+In every module (the modules are found in the test folder), there will be 4 guidelines: Task, Reference, Hint, Test. Your objective is to complete the tasks in every module. If you find yourself stuck, try to read the references properly. The answer should be there. If the references are not enough, you can google the answer or look at the hints given. 
 
 I will be providing a solution repo and also a video walkthrough in the future so that you can double check your answers. 
 
@@ -27,13 +27,12 @@ By the end of the first course, you will be able to know how to:
 - Use console.log (Done)
 - Get the address of the test account (Done)
 - Create random addresses (Done)
-- Get some test native ETH tokens (Donee) 
+- Get some test native ETH tokens (Done) 
 - Reset the amount of native tokens (Done)
 - Transfer ETH between addresses (Done)
 - Transfer ETH from address to contract
 - Learn to change the caller using prank() (Done)
-- Skip time using skip()
-- Write assertions such as assertEq(), assertGt(), assertLt() (Done)
+- Write assertions such as assertEq(), assertGt() (Done)
 
 
 # Future Plan in Progress (Ignore For Now)
