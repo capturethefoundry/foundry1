@@ -9,8 +9,15 @@ Ideally, you should have a little bit of knowledge on solidity. That's about it.
 - https://github.com/foundry-rs/foundry/blob/master/foundryup/README.md
 - https://github.com/foundry-rs/foundry/tree/master
 
+## How to Start
+- Make sure you have foundry installed on your system
+- Clone the repository 
+- Run the command "forge test". The command should result in many passing tests.
+- In every module, there are some tasks to complete. Code your solution in the test function inside each module.
+- Run the command that is given right at the end of every module. Your test should match the task requirements.
+
 ## Explanation
-Once again, this course is meant to be interactive. In every module (the modules are found in the test folder), there will be 4 guidelines: Task, Reference, Hints, Test. Try your best to complete the task in every module. Instead of giving you the answer, I have provided some links under the reference tab so that you can find the answer yourself. If the references are not enough, you can google the answer or look at the hints given. 
+In every module (the modules are found in the test folder), there will be 4 guidelines: Task, Reference, Hint, Test. Try your best to complete the task in every module. If you find yourself stuck, try to read the references properly. The answer should be there. If the references are not enough, you can google the answer or look at the hints given. 
 
 I will be providing a solution repo and also a video walkthrough in the future so that you can double check your answers. 
 

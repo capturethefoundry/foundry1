@@ -22,4 +22,4 @@ contract Module6 is Test {
     }
 }
 
-// Test: Run forge test --mt test_6 -vv in your console
+// Test: Run forge test --mt test_6 -vv in your console.

@@ -42,5 +42,5 @@ contract Module0Description is Test {
 // To run a test, you have to use the console.
 // If you are on windows, you may need to use WSL (windows subsystem for Linux)
 // I don't use a Mac, so I don't know how it goes there. 
-// Don't worry about what to type on the console. I'll be giving you the commands for every module, but here is a reference
+// Don't worry about what to type on the console. I'll be giving you the commands for every module, but here is a reference:
 // https://book.getfoundry.sh/forge/tests?highlight=forge%20test#tests

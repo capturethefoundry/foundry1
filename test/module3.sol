@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: UNLICENSED
 
-// Module 3: What is my address?
+// Module 3: What is the address of the test contract?
 
 // Task 1: Print the address of the test contract onto your console. 
 // Task 2: Make sure the console prints "The address of the test contract is (address)"  
@@ -22,5 +22,5 @@ contract Module3 is Test {
     }
 }
 
-// Test: Run forge test --mt test_3 -vv in your console
+// Test: Run forge test --mt test_3 -vv in your console.
 // The console should print "The address of the test contract is: 0x7F...."
