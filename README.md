@@ -24,16 +24,16 @@ I will be providing a solution repo and also a video walkthrough in the future s
 ## Course Learnings
 By the end of the first course, you will be able to know how to:
 
-- Use console.log (Done)
-- Get the address of the test account (Done)
-- Create random addresses (Done)
-- Get some test native ETH tokens (Done) 
-- Reset the amount of native tokens (Done)
-- Transfer ETH between addresses (Done)
+- Use console.log 
+- Get the address of the test account 
+- Create random addresses 
+- Get some test native ETH tokens 
+- Reset the amount of native tokens 
+- Transfer ETH from contract to address
 - Transfer ETH from address to contract
-- Learn to change the caller using prank() (Done)
-- Write assertions such as assertEq(), assertGt() (Done)
-
+- Transfer ETH from address to address
+- Learn to change the caller using prank()
+- Write assertions such as assertEq(), assertGt() 
 
 # Future Plan in Progress (Ignore For Now)
 ### Course Learnings
@@ -49,7 +49,8 @@ By the end of the second course, you will be able to know how to:
 - Call some simple functions on the blockchain
 - Wrap native tokens
 - Use interfaces
-- Interact with any contract on the blockchain
+- Interact with contracts on the blockchain
+- Swap some tokens using Uniswap
 
 (Spoof means gaining control of a certain account)
 
@@ -63,6 +64,6 @@ By the end of the third course, you will be able to know how to:
 
 Note: I personally think that chapter 2 is the most interesting because you can get to really immerse yourself in the blockchain and do a lot of cool functions. Also, chapter 3 is the most important in order to become a bug bounty hunter because you will learn how to interact with different contracts from different protocols.
 
-Aside: Navigating through the blockchain and being a pseudo-hacker is not as hard as it looks like! I always thought that I was not capable of doing these kind of things because I did not have any experience before, but I'm here to tell you that it's definitely possible and actually pretty fun! 
+Aside: Navigating through the blockchain and being a pseudo-hacker is not as hard as it looks like. I always thought that I was not capable of doing these kind of things because I did not have any experience before, but I'm here to tell you that it's definitely possible and actually pretty fun! 
 
 
