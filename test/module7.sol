@@ -12,14 +12,11 @@
 
 pragma solidity ^0.8.13;
 import "forge-std/Test.sol";
-
 contract Module7 is Test {
-
     function test_7() public {
         // Enter your code here
     }
-
-
+    
 }
 
 // Test: Run forge test --mt test_7 -vv in your console.

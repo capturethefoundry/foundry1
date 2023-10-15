@@ -5,7 +5,7 @@
 // Task 1: Copy the code from Module 8.
 // Task 2: Assert that address 1 has 6 ether left.
 // Task 3: Assert that address 2 has 4 ether left.
-// Task 4: Make sure address 2 has more ether than address 1
+// Task 4: Make sure address 1 has more ether than address 2
 
 // Reference: https://book.getfoundry.sh/reference/forge-std/assertEq?highlight=asserteq#asserteq
 // Reference: https://book.getfoundry.sh/reference/ds-test?highlight=assertgt#assertgt
@@ -16,11 +16,9 @@ pragma solidity ^0.8.13;
 import "forge-std/Test.sol";
 
 contract Module10 is Test {
-
     function test_10() public {
         // Enter your code here        
     }
-
 
 }
 

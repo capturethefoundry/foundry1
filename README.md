@@ -1,4 +1,4 @@
-## Foundry Full Course Part 1 (IN PROGRESS)
+## Foundry Full Course Part 1 
 
 Welcome to the first part of this foundry course. This course will be a little different than other courses, in the sense that you have to find the answers yourself. This is an interactive course that guides you through the fundementals of foundry. Not to worry, the course is designed for absolute beginners, and the difficulty of each module will be gradual. 
 
@@ -10,8 +10,8 @@ Ideally, you should have a little bit of knowledge on solidity. That's about it.
 - https://github.com/foundry-rs/foundry/tree/master
 
 ## How to Start
-- Make sure you have foundry installed on your system
-- Clone the repository 
+- Make sure you have foundry installed on your system.
+- Clone the repository.
 - Run the command "forge test". The command should result in many passing tests.
 - In every module, there are some tasks to complete. Code your solution in the test function inside each module.
 - Run the command that is given right at the end of every module. Your test should match the task requirements.
@@ -30,8 +30,8 @@ By the end of the first course, you will be able to know how to:
 - Get some test native ETH tokens 
 - Reset the amount of native tokens 
 - Transfer ETH from contract to address
-- Transfer ETH from address to contract
 - Transfer ETH from address to address
+- Transfer ETH from address to contract
 - Learn to change the caller using prank()
 - Write assertions such as assertEq(), assertGt() 
 
@@ -46,7 +46,7 @@ By the end of the second course, you will be able to know how to:
 - Transfer native tokens from one account to another
 - Transfer ERC20 tokens from one account to another
 - Receive native tokens from one account to the test account
-- Call some simple functions on the blockchain
+- Call simple functions on the blockchain
 - Wrap native tokens
 - Use interfaces
 - Interact with contracts on the blockchain
